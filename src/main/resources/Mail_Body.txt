@@ -1,0 +1,14 @@
+Hi {firstName},
+
+I came across {companyName} while exploring {specificProductOrTeam}, and I really liked {specificThingYouNoticed}.
+
+I’m a {yourRole} with {yearsOfExperience} years of experience in {domain}, specializing in {skill1}, {skill2}, and {skill3}. Recently, I {achievementWithResult}.
+
+I noticed {companyName} is working on {relevantArea}, and I believe I can contribute by helping with {specificAreaYouCanImpact}.
+
+Would you be open to a quick 10–15 minute chat this week? I’d love to learn more about your goals and share how I can add value.
+
+I’ve attached my resume for your reference.
+
+Best regards,
+{yourName}
